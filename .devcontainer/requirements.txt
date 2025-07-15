@@ -1,0 +1,15 @@
+torch==2.1.0
+torchvision==0.16.0
+numpy
+opencv-python
+matplotlib
+pyyaml
+scipy
+# Streamlit and Gradio optional
+streamlit
+gradio
+
+# For MMDet3D/BEVFormer (CPU)
+mmcv==2.0.1
+mmdet==3.1.0
+mmdet3d==1.1.0
