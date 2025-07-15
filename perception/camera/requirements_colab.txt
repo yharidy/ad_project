@@ -1,0 +1,5 @@
+openmim
+mmcv-full
+mmdet
+mmdet3d
+tqdm
